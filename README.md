@@ -1,8 +1,13 @@
-# React + Vite
+#Skynerr Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1.  Run the backend first.
+2.  Create a folder named Skynerr in your desktop.
+3.  Open the Skynerr folder in VScode.
+4.  In VS code open terminal/command prompt.
+5.  In the terminal/command prompt type "git clone https://github.com/MohammadAyubAnsari/skynerr-chat-frontend.git" and hit enter.
+6.  After successful cloning, in the terminal type "cd skynerr-chat-frontend" and hit enter.
+7.  Create a .env file and type "VITE_API_URL= {the backend url}".
+8.  In the terminal/command prompt type "npm i" and hit enter.
+9.  In the terminal/command prompt type "npm run dev" and hit enter.
+10.  Now in chrome or any browser enter "http://localhost/5173" and hit enter.
+11.  You will be redirected to the auth page, signup and test the functionality.
